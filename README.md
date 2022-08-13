@@ -1,2 +1,3 @@
 # simon-says-game
-a simple simon says game with audio
+# A Simple Simon Says Game With Audio
+# Developed using jquery
